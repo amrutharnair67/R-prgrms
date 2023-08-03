@@ -22,7 +22,7 @@ air
 air$Month <- factor(air$Month)
 air
 
-#training and testing dataset
+#training and testing data_set
 
 library(caTools)
 set.seed(123)
