@@ -50,7 +50,7 @@ mtcars
 #Convert gear to categorical
 mtcars$gear <- as.factor(mtcars$gear)
 
-# Convert am to categorical.
+# Convert am to categorical .
 mtcars$am <- as.factor(mtcars$am)
 
 # Convert cyl to categorical
