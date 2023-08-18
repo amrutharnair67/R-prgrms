@@ -43,7 +43,7 @@ qplot(mpg$class, mpg$hwy, data = mpg, geom = "dotplot")
 # Violin plot
 qplot(mpg$class, mpg$hwy, data = mpg, geom = "violin")
 
-#Convert the attributes gear, am, cyl of mtcars data_set to categorical.
+#Convert the attributes gear, am, cyl of mtcars dataset to categorical.
 mtcars<-data.frame(mtcars)
 mtcars
 
