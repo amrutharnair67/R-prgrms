@@ -1,7 +1,7 @@
 
 v1<-readline("enter the First number")
 v1<-as.integer(v1)
-v2<-readline("enter the 2nd number")
+v2<-readline("enter the Second number")
 v2<-as.integer(v2)
 print(v1)
 print(v2)
